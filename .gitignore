@@ -1,0 +1,9 @@
+*.iml
+.DS_Store
+*.class
+/*.class
+/.idea
+/.idea/*
+/out
+/out/*
+!.gitignore

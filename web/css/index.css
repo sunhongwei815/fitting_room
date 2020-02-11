@@ -1,0 +1,210 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.top {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+.top-content {
+    width: 90%;
+    height: 50px;
+    margin: 0px auto;
+    text-align: center;
+    display: flex;
+
+}
+.brand {
+    width: 150px;
+    height: 50px;
+    float: left;
+    line-height: 50px;
+}
+.brand span {
+    font-size: 22px;
+    font-family: Microsoft YaHei;
+    color: white;
+}
+.content {
+    width: 700px;
+    height: 50px;
+    line-height: 50px;
+    float:left;
+}
+ul.content-title {
+    display: inline-flex;
+    list-style: none;
+}
+li.li-list {
+    width: 210px;
+    /* height: 50px; */
+}
+button.btn.btn-design {
+    width: 110px;
+    height: 36px;
+    background-color: #0078D7;
+}
+
+.btn-design a{
+    color: white;
+    font-size: 16px;
+    font-family:"Microsoft YaHei UI";
+    font-style: normal;
+    text-decoration: none;
+}
+.btn-design a:hover{
+
+}
+.person {
+    width: 250px;
+    height: 50px;
+    margin-left: 58px;
+    line-height: 50px;
+    float:left;
+}
+.person span {
+    color: white;
+    font-size: 16px;
+    font-family: Microsoft YaHei;
+}
+
+.order-content {
+    width: 100%;
+    height: auto;
+    margin: 50px auto;
+}
+form.form-design {
+    width: 75%;
+    height: auto;
+    margin: 0px auto;
+    text-align: center;
+}
+.source-goods {
+    width: 70%;
+    height: 50px;
+    line-height: 50px;
+    margin: 20px auto;
+    display: inline-flex;
+}
+.pay-mode {
+    width: 230px;
+    height: auto;
+    display: block;
+}
+label.pro-label {
+    width: 100px;
+    height: auto;
+    margin-right: 8px;
+    font-size: 16px;
+    font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;
+    font-weight: 600;
+}
+select {
+    width: 100px;
+    height: 36px;
+    border-radius: 4px;
+    /* text-align: center; */
+    font-size: 15px;
+    font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;
+
+}
+.pay-address {
+    width: 400px;
+    height: auto;
+}
+input.btn.btn-desgin {
+    width: 300px;
+    height: 36px;
+    border: 1px solid grey;
+    font-size: 16px;
+    font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;
+    text-align: left;
+}
+.decoration-goods {
+    width: 75%;
+    height: 100px;
+    margin: 0px 62px 0px auto;
+    padding-top: 15px;
+    text-align: left;
+}
+textarea {
+     width: 437px;
+     height: 70px;
+    padding: 5px;
+     resize: none;
+    border-radius: 4px;
+    text-align: left;
+}
+.count-txt{
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+    color: #ccc;
+}
+.textarea-con{
+    position: relative;
+    width: 300px;
+    height: 80px;
+    margin: 10px auto;
+}
+.pro-declabel{
+    width: 80px;
+    height: auto;
+    margin-right: 12px;
+    font-size: 16px;
+    font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;
+    font-weight: 600;
+}
+.submit-goods {
+    width: 75%;
+    height: 50px;
+    line-height: 50px;
+    margin: 20px auto;
+}
+.submit-content {
+    width: 230px;
+    height: 50px;
+    margin: 0px 40px 0px auto;
+}
+input.btn.btn-action {
+    width: 80%;
+    height: 40px;
+    font-size: 18px;
+    font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+.empty-addr{
+    color: red;
+    display: none;
+    font-size: 16px;
+    font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+.error-addr{
+    color: red;
+    display: none;
+    font-size: 16px;
+    font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+.error-dis{
+    color: red;
+    display: none;
+    font-size: 16px;
+    font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+.netaddr{
+    color: red;
+    display: none;
+    font-size: 16px;
+    font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+.pro-dis{
+    color: red;
+    display: none;
+    font-size: 16px;
+    font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+
+
+
+
+

@@ -1,0 +1,100 @@
+.userRegister{
+    width: 500px;
+    height: 300px;
+    color: #193F51;
+    margin: 50px auto 8px;
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 30px;
+    
+}
+.panel-heading{
+    font-size: 18px;
+    margin: 0 auto;
+}
+.col-sm-2{
+ padding:0;
+}
+.form-control{
+  width:340px;
+    margin:0 auto;
+}
+
+.label-code{
+    float:left;
+    margin: 0 40px;
+    padding:0;
+}
+.input-code{
+    float:left;
+}
+.a-code{
+    float:right;
+    margin:0 50px 0 0;
+}
+
+.btn{
+  padding: auto;
+  margin: auto;
+  width:305px;
+  color: #0a0a0a;
+  background: #F5F5F5;
+}
+.user-lack{
+  display:none;
+  float:right;   
+ font-size: 16px;color:red;
+    /*padding:auto 0 0 110px;*/
+  }
+.user-error{
+    float:right;
+    display:none;
+    font-size: 16px;color:red;
+  }
+.pass-error{
+    float:right;
+    display:none;
+    font-size: 16px;color:red;}
+.u-code-error{
+    float:right;
+    display:none;
+    font-size: 16px;color:red;}
+.mobile-error{
+    float:right;
+    display:none;
+    font-size: 16px;color:red;}
+    .user{
+  display:none;  
+ font-size: 16px;color:red;
+    /*padding:auto 0 0 110px;*/
+  }
+  .pass{
+  display:none; 
+ font-size: 16px;color:red;
+    /*padding:auto 0 0 110px;*/
+  }
+  .u{
+  display:none;
+ font-size: 16px;color:red;
+    /*padding:auto 0 0 110px;*/
+  }
+  .number{
+  display:none;
+ font-size: 16px;color:red;
+    /*padding:auto 0 0 110px;*/
+  }
+  .vcode{
+  display:none;  
+ font-size: 16px;color:red;
+    /*padding:auto 0 0 110px;*/
+  }
+  .user-success{
+      display:none;
+      font-size: 16px;
+      color:red;
+  }
+  .empty-code{
+      display:none;
+      font-size: 16px;
+      color:red;
+  }
+  

@@ -1,0 +1,24 @@
+.tab-content {
+    width: 75%;
+    height: auto;
+    margin: 100px auto;
+}
+caption{
+    width: 200px;
+height: 50px;
+margin: 15px auto;
+line-height: 50px;
+text-align: center;
+font-size: 25px;
+font-weight: bold;
+color: black;
+}
+button.btn.btn-default.btn-size {
+    width: 87px;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+tr>th,td{
+    text-align: center;
+}
